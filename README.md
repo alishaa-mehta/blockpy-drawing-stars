@@ -1,1 +1,1 @@
-# blockpy-drawing-stars
+# Drawing stars using blockpy
